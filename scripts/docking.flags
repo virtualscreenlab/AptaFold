@@ -1,0 +1,6 @@
+--size_x 20
+--size_y 20
+--size_z 20
+--cpu 5
+--exhaustiveness 15
+--num_modes 2
